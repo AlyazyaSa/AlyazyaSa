@@ -14,7 +14,7 @@
 </p> 
 
 <h3 align="center">
-<img width="200" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="50px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h3/>
   
 <br/>
@@ -22,9 +22,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-
 
 # 💫 About Me
 ▪ Specialize in web design and development, merging creativity and efficiency across diverse domains.<br/>
