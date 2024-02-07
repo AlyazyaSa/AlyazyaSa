@@ -39,29 +39,17 @@ Check out [my Resume](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk
 [![](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 
-## 💻 Technologies I Use:
+## 💻Technologies I Use:
+<img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='30'/>  <img src='https://angular.io/assets/images/logos/angular/angular.svg' width='30'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='30'/>
 
-    ![.NET Core](https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg)
-    ![Bootstrap](https://github.com/123usef/123usef/blob/main/images/bootstrap.svg)
-    ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-    ![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
-    ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
 
 ## 💻 Programming Languages:
 
-<div align="center" style="display: flex; justify-content: space-evenly;">
-    ![HTML](https://github.com/123usef/123usef/blob/main/images/html.svg)
-    ![CSS](https://github.com/123usef/123usef/blob/main/images/css.svg)
-    ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-    ![PHP](https://github.com/123usef/123usef/blob/main/images/php.svg)
-    ![SQL](https://github.com/123usef/123usef/blob/main/images/sql.svg)
-    ![C#](https://github.com/123usef/123usef/blob/main/images/c--4.svg)
-</div>
+<img src = 'https://github.com/123usef/123usef/blob/main/images/html.svg' width='30'/>  <img src = 'https://github.com/123usef/123usef/blob/main/images/css.svg' width='30'/> <img src = 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' width='30'/>   <img src = 'https://github.com/123usef/123usef/blob/main/images/php.svg' width='40'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/c--4.svg' width='30'/> 
 
-## 💟 Design:
-
-    ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-    ![Canva](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTDT09uCC1jnMacaY_1d9uosDTzmlJsuebEN57CC6rQ&s)
+## 💟Design:
+<img src='https://www.vectorlogo.zone/logos/figma/figma-icon.svg' width='30' /> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTDT09uCC1jnMacaY_1d9uosDTzmlJsuebEN57CC6rQ&s' width='30' /> 
+ 
 
 <br/> 
 <br/>
