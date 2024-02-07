@@ -14,19 +14,19 @@
 </p> 
 
 # 💫 About Me:
-▪ Specialize in web design and development, merging creativity and efficiency across diverse domains.
-▪ Proficient in HTML, CSS, C#, JavaScript, databases, and Bootstrap.
-▪Deliver innovative and effective solutions to accomplish web objectives.
-▪ Possess a keen artistic vision and outstanding capability to convert concepts into appealing and functional user interfaces.
-▪Proficiency in managing databases, particularly skilled in DB SQL Server.
+▪ Specialize in web design and development, merging creativity and efficiency across diverse domains.<br/>
+▪ Proficient in HTML, CSS, C#, JavaScript, databases, and Bootstrap.<br/>
+▪Deliver innovative and effective solutions to accomplish web objectives.<br/>
+▪ Possess a keen artistic vision and outstanding capability to convert concepts into appealing and functional user interfaces.<br/>
+▪Proficiency in managing databases, particularly skilled in DB SQL Server.<br/>
 
 
 ## 📑 My Info
 Check out [my Resume](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk48SUJU0/view?usp=sharing)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br/> 
-[![Profile Views](https://github.com/AlyazyaSa)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white))<br/>
+[![](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 
 ## 💻Technologies I Use:
