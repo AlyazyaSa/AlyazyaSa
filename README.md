@@ -30,6 +30,7 @@
 ▪ Possess a keen artistic vision and outstanding capability to convert concepts into appealing and functional user interfaces.<br/>
 ▪Proficiency in managing databases, particularly skilled in DB SQL Server.<br/>
 
+</br>
 
 ## 📑 My Info
 Check out [my Resume](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk48SUJU0/view?usp=sharing)
