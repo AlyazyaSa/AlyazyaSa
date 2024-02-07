@@ -10,14 +10,20 @@
 <br/>
 <br/>
 
-<h3 align="center">
-  Welcome to Alyazyia Saif profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+
 
 
 <h3 align="center">
 <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<br/>
+<br/>
+
+
+  <h3 align="center">
+  Welcome to Alyazyia Saif profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <h3/>
 <br/>
 <br/>
