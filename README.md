@@ -25,7 +25,7 @@
 Check out [my Resume](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk48SUJU0/view?usp=sharing)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)<br/>
 [![](https://visitcount.itsvg.in/api?id=AsmaAlharrasi&icon=2&color=8)](https://visitcount.itsvg.in)
 
 
