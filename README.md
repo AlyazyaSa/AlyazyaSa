@@ -16,7 +16,7 @@
 <br/>
 <br/>
 <h3 align="center">
-<img width="50px" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 <h3/>
 <br/>
 <br/>
