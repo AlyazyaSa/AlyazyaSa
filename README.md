@@ -18,6 +18,10 @@ I specialize in web design and development, combining creativity and efficiency 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlyazyaSa&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyazyaSa&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📄 Resume:
+[Download PDF](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk48SUJU0/view?usp=sharing
+)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
