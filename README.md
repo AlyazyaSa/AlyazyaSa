@@ -14,7 +14,6 @@
 </p> 
 
 # 💫 About Me
-<div align="center">
 ▪ Specialize in web design and development, merging creativity and efficiency across diverse domains.<br/>
 ▪ Proficient in HTML, CSS, C#, JavaScript, databases, and Bootstrap.<br/>
 ▪Deliver innovative and effective solutions to accomplish web objectives.<br/>
@@ -31,8 +30,9 @@ Check out [my Resume](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk
 
 
 ## 💻Technologies I Use:
+<div align="center">
 <img src = 'https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg' width='30'/> <img src = 'https://github.com/123usef/123usef/blob/main/images/bootstrap.svg' width='33'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' width='30'/>  <img src='https://angular.io/assets/images/logos/angular/angular.svg' width='30'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' width='30'/>
-
+<div/>
 
 ## 💻 Programming Languages:
 
