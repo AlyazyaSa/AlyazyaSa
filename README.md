@@ -31,13 +31,11 @@ Check out [my Resume](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk
 
 ## 💻 Technologies I Use:
 
-<div align="center" style="display: flex; justify-content: space-evenly;">
     ![.NET Core](https://github.com/123usef/123usef/blob/main/images/NET_Core_Logo.svg)
     ![Bootstrap](https://github.com/123usef/123usef/blob/main/images/bootstrap.svg)
     ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
     ![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
     ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-</div>
 
 ## 💻 Programming Languages:
 
@@ -52,10 +50,8 @@ Check out [my Resume](https://drive.google.com/file/d/1Oz0VyugJS4llV02SBRO3HMoWk
 
 ## 💟 Design:
 
-<div align="center" style="display: flex; justify-content: space-evenly;">
     ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
     ![Canva](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjTDT09uCC1jnMacaY_1d9uosDTzmlJsuebEN57CC6rQ&s)
-</div>
 
 <br/> 
 <br/>
