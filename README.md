@@ -1,4 +1,4 @@
-<h3 style="font-size: 70px;" align="center">
+<h3 style="font-size: 70%;" align="center">
   Hi there 👋
 </h3>
 
