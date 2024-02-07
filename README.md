@@ -1,7 +1,10 @@
-### Hi there 👋
+ <h3 align="center">
+  Hi there 👋
+</h1> 
 
-# 💫 About Me:
+<h2 align="center"> 💫 About Me:
 I specialize in web design and development, combining creativity and efficiency across multiple domains. Thanks to my excellent knowledge and skills in HTML, CSS, C#, JavaScript, databases, and Bootstrap, I provide innovative and effective solutions to achieve web goals. I possess a sharp artistic vision and exceptional ability to transform ideas into attractive and functional user interfaces. Moreover, I am proficient in handling databases, particularly with expertise in DB SQL Server.
+</h2>
 
 
 ## 🌐 Socials:
